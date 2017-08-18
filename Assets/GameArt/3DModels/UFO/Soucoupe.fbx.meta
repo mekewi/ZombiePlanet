@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 6db88a1fb2c6d4b5d8fcf33d65fed9a2
+timeCreated: 1502624967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Antenne_dessus
+    100002: Antennes
+    100004: Antennes1
+    100006: Antennes2
+    100008: Antennes3
+    100010: Antennes4
+    100012: areaLight3
+    100014: areaLight4
+    100016: areaLight5
+    100018: areaLight6
+    100020: Chaleur
+    100022: Fog
+    100024: "h\xE9lice1"
+    100026: "H\xE9lice_2"
+    100028: lampes
+    100030: miroirs
+    100032: Obus
+    100034: pCylinder1
+    100036: pCylinder1 1
+    100038: pCylinder1 2
+    100040: pCylinder1 3
+    100042: pCylinder2
+    100044: pCylinder2 1
+    100046: pCylinder2 2
+    100048: pCylinder2 3
+    100050: pCylinder3
+    100052: pCylinder3 1
+    100054: pCylinder3 2
+    100056: pCylinder3 3
+    100058: pCylinder4
+    100060: pCylinder4 1
+    100062: pCylinder4 2
+    100064: pCylinder4 3
+    100066: pCylinder5
+    100068: pCylinder5 1
+    100070: pCylinder5 2
+    100072: pCylinder5 3
+    100074: phare:polySurface12
+    100076: phares
+    100078: Pipe1
+    100080: Pipe2
+    100082: place3dTexture2
+    100084: place3dTexture3
+    100086: polySurface12
+    100088: polySurface13
+    100090: polySurface14
+    100092: pPipe43
+    100094: pPipe44
+    100096: pPipe45
+    100098: pPipe46
+    100100: pPipe47
+    100102: pPipe48
+    100104: pPipe49
+    100106: pPipe50
+    100108: pPipe51
+    100110: pPipe52
+    100112: pPipe53
+    100114: pPipe54
+    100116: pPipe55
+    100118: pPipe56
+    100120: pPipe57
+    100122: pPipe58
+    100124: pPipe59
+    100126: pPipe60
+    100128: pPipe61
+    100130: pPipe62
+    100132: pPipe63
+    100134: pPipe64
+    100136: pPipe65
+    100138: pPipe66
+    100140: pPipe67
+    100142: pPipe68
+    100144: pPipe69
+    100146: pPipe70
+    100148: pPipe71
+    100150: pPipe72
+    100152: revolvedSurface41
+    100154: revolvedSurface42
+    100156: revolvedSurface43
+    100158: revolvedSurface44
+    100160: revolvedSurface45
+    100162: revolvedSurface46
+    100164: revolvedSurface47
+    100166: revolvedSurface48
+    100168: revolvedSurface49
+    100170: revolvedSurface50
+    100172: revolvedSurface51
+    100174: revolvedSurface52
+    100176: revolvedSurface53
+    100178: revolvedSurface54
+    100180: revolvedSurface55
+    100182: revolvedSurface56
+    100184: "R\xE9acteur"
+    100186: //RootNode
+    100188: Soucoupe
+    100190: Sphere1
+    100192: Sphere2
+    100194: Sphere3
+    100196: Sphere4
+    100198: spotLight1
+    100200: spotLight1 1
+    100202: spotLight10
+    100204: spotLight2
+    100206: spotLight2 1
+    100208: spotLight3
+    100210: spotLight4
+    100212: spotLight7
+    100214: spotLight8
+    100216: spotLight9
+    400000: Antenne_dessus
+    400002: Antennes
+    400004: Antennes1
+    400006: Antennes2
+    400008: Antennes3
+    400010: Antennes4
+    400012: areaLight3
+    400014: areaLight4
+    400016: areaLight5
+    400018: areaLight6
+    400020: Chaleur
+    400022: Fog
+    400024: "h\xE9lice1"
+    400026: "H\xE9lice_2"
+    400028: lampes
+    400030: miroirs
+    400032: Obus
+    400034: pCylinder1
+    400036: pCylinder1 1
+    400038: pCylinder1 2
+    400040: pCylinder1 3
+    400042: pCylinder2
+    400044: pCylinder2 1
+    400046: pCylinder2 2
+    400048: pCylinder2 3
+    400050: pCylinder3
+    400052: pCylinder3 1
+    400054: pCylinder3 2
+    400056: pCylinder3 3
+    400058: pCylinder4
+    400060: pCylinder4 1
+    400062: pCylinder4 2
+    400064: pCylinder4 3
+    400066: pCylinder5
+    400068: pCylinder5 1
+    400070: pCylinder5 2
+    400072: pCylinder5 3
+    400074: phare:polySurface12
+    400076: phares
+    400078: Pipe1
+    400080: Pipe2
+    400082: place3dTexture2
+    400084: place3dTexture3
+    400086: polySurface12
+    400088: polySurface13
+    400090: polySurface14
+    400092: pPipe43
+    400094: pPipe44
+    400096: pPipe45
+    400098: pPipe46
+    400100: pPipe47
+    400102: pPipe48
+    400104: pPipe49
+    400106: pPipe50
+    400108: pPipe51
+    400110: pPipe52
+    400112: pPipe53
+    400114: pPipe54
+    400116: pPipe55
+    400118: pPipe56
+    400120: pPipe57
+    400122: pPipe58
+    400124: pPipe59
+    400126: pPipe60
+    400128: pPipe61
+    400130: pPipe62
+    400132: pPipe63
+    400134: pPipe64
+    400136: pPipe65
+    400138: pPipe66
+    400140: pPipe67
+    400142: pPipe68
+    400144: pPipe69
+    400146: pPipe70
+    400148: pPipe71
+    400150: pPipe72
+    400152: revolvedSurface41
+    400154: revolvedSurface42
+    400156: revolvedSurface43
+    400158: revolvedSurface44
+    400160: revolvedSurface45
+    400162: revolvedSurface46
+    400164: revolvedSurface47
+    400166: revolvedSurface48
+    400168: revolvedSurface49
+    400170: revolvedSurface50
+    400172: revolvedSurface51
+    400174: revolvedSurface52
+    400176: revolvedSurface53
+    400178: revolvedSurface54
+    400180: revolvedSurface55
+    400182: revolvedSurface56
+    400184: "R\xE9acteur"
+    400186: //RootNode
+    400188: Soucoupe
+    400190: Sphere1
+    400192: Sphere2
+    400194: Sphere3
+    400196: Sphere4
+    400198: spotLight1
+    400200: spotLight1 1
+    400202: spotLight10
+    400204: spotLight2
+    400206: spotLight2 1
+    400208: spotLight3
+    400210: spotLight4
+    400212: spotLight7
+    400214: spotLight8
+    400216: spotLight9
+    2300000: Antenne_dessus
+    2300002: Chaleur
+    2300004: Obus
+    2300006: pCylinder1
+    2300008: pCylinder1 1
+    2300010: pCylinder1 2
+    2300012: pCylinder1 3
+    2300014: pCylinder2
+    2300016: pCylinder2 1
+    2300018: pCylinder2 2
+    2300020: pCylinder2 3
+    2300022: pCylinder3
+    2300024: pCylinder3 1
+    2300026: pCylinder3 2
+    2300028: pCylinder3 3
+    2300030: pCylinder4
+    2300032: pCylinder4 1
+    2300034: pCylinder4 2
+    2300036: pCylinder4 3
+    2300038: pCylinder5
+    2300040: pCylinder5 1
+    2300042: pCylinder5 2
+    2300044: pCylinder5 3
+    2300046: phare:polySurface12
+    2300048: Pipe1
+    2300050: Pipe2
+    2300052: polySurface12
+    2300054: polySurface13
+    2300056: polySurface14
+    2300058: pPipe43
+    2300060: pPipe44
+    2300062: pPipe45
+    2300064: pPipe46
+    2300066: pPipe47
+    2300068: pPipe48
+    2300070: pPipe49
+    2300072: pPipe50
+    2300074: pPipe51
+    2300076: pPipe52
+    2300078: pPipe53
+    2300080: pPipe54
+    2300082: pPipe55
+    2300084: pPipe56
+    2300086: pPipe57
+    2300088: pPipe58
+    2300090: pPipe59
+    2300092: pPipe60
+    2300094: pPipe61
+    2300096: pPipe62
+    2300098: pPipe63
+    2300100: pPipe64
+    2300102: pPipe65
+    2300104: pPipe66
+    2300106: pPipe67
+    2300108: pPipe68
+    2300110: pPipe69
+    2300112: pPipe70
+    2300114: pPipe71
+    2300116: pPipe72
+    2300118: revolvedSurface41
+    2300120: revolvedSurface42
+    2300122: revolvedSurface43
+    2300124: revolvedSurface44
+    2300126: revolvedSurface45
+    2300128: revolvedSurface46
+    2300130: revolvedSurface47
+    2300132: revolvedSurface48
+    2300134: revolvedSurface49
+    2300136: revolvedSurface50
+    2300138: revolvedSurface51
+    2300140: revolvedSurface52
+    2300142: revolvedSurface53
+    2300144: revolvedSurface54
+    2300146: revolvedSurface55
+    2300148: revolvedSurface56
+    2300150: Soucoupe
+    2300152: Sphere1
+    2300154: Sphere2
+    2300156: Sphere3
+    2300158: Sphere4
+    3300000: Antenne_dessus
+    3300002: Chaleur
+    3300004: Obus
+    3300006: pCylinder1
+    3300008: pCylinder1 1
+    3300010: pCylinder1 2
+    3300012: pCylinder1 3
+    3300014: pCylinder2
+    3300016: pCylinder2 1
+    3300018: pCylinder2 2
+    3300020: pCylinder2 3
+    3300022: pCylinder3
+    3300024: pCylinder3 1
+    3300026: pCylinder3 2
+    3300028: pCylinder3 3
+    3300030: pCylinder4
+    3300032: pCylinder4 1
+    3300034: pCylinder4 2
+    3300036: pCylinder4 3
+    3300038: pCylinder5
+    3300040: pCylinder5 1
+    3300042: pCylinder5 2
+    3300044: pCylinder5 3
+    3300046: phare:polySurface12
+    3300048: Pipe1
+    3300050: Pipe2
+    3300052: polySurface12
+    3300054: polySurface13
+    3300056: polySurface14
+    3300058: pPipe43
+    3300060: pPipe44
+    3300062: pPipe45
+    3300064: pPipe46
+    3300066: pPipe47
+    3300068: pPipe48
+    3300070: pPipe49
+    3300072: pPipe50
+    3300074: pPipe51
+    3300076: pPipe52
+    3300078: pPipe53
+    3300080: pPipe54
+    3300082: pPipe55
+    3300084: pPipe56
+    3300086: pPipe57
+    3300088: pPipe58
+    3300090: pPipe59
+    3300092: pPipe60
+    3300094: pPipe61
+    3300096: pPipe62
+    3300098: pPipe63
+    3300100: pPipe64
+    3300102: pPipe65
+    3300104: pPipe66
+    3300106: pPipe67
+    3300108: pPipe68
+    3300110: pPipe69
+    3300112: pPipe70
+    3300114: pPipe71
+    3300116: pPipe72
+    3300118: revolvedSurface41
+    3300120: revolvedSurface42
+    3300122: revolvedSurface43
+    3300124: revolvedSurface44
+    3300126: revolvedSurface45
+    3300128: revolvedSurface46
+    3300130: revolvedSurface47
+    3300132: revolvedSurface48
+    3300134: revolvedSurface49
+    3300136: revolvedSurface50
+    3300138: revolvedSurface51
+    3300140: revolvedSurface52
+    3300142: revolvedSurface53
+    3300144: revolvedSurface54
+    3300146: revolvedSurface55
+    3300148: revolvedSurface56
+    3300150: Soucoupe
+    3300152: Sphere1
+    3300154: Sphere2
+    3300156: Sphere3
+    3300158: Sphere4
+    4300000: Soucoupe
+    4300002: Antenne_dessus
+    4300004: Sphere1
+    4300006: pCylinder2
+    4300008: pCylinder4
+    4300010: pCylinder3
+    4300012: pCylinder1
+    4300014: pCylinder5
+    4300016: Sphere2
+    4300018: pCylinder2
+    4300020: pCylinder4
+    4300022: pCylinder3
+    4300024: pCylinder1
+    4300026: pCylinder5
+    4300028: Sphere3
+    4300030: pCylinder2
+    4300032: pCylinder4
+    4300034: pCylinder3
+    4300036: pCylinder1
+    4300038: pCylinder5
+    4300040: Sphere4
+    4300042: pCylinder2
+    4300044: pCylinder4
+    4300046: pCylinder3
+    4300048: pCylinder1
+    4300050: pCylinder5
+    4300052: Chaleur
+    4300054: Obus
+    4300056: revolvedSurface41
+    4300058: revolvedSurface42
+    4300060: revolvedSurface43
+    4300062: revolvedSurface44
+    4300064: revolvedSurface45
+    4300066: revolvedSurface46
+    4300068: revolvedSurface47
+    4300070: revolvedSurface48
+    4300072: revolvedSurface49
+    4300074: revolvedSurface50
+    4300076: revolvedSurface51
+    4300078: revolvedSurface52
+    4300080: revolvedSurface53
+    4300082: revolvedSurface54
+    4300084: revolvedSurface55
+    4300086: revolvedSurface56
+    4300088: Pipe1
+    4300090: pPipe43
+    4300092: pPipe44
+    4300094: pPipe45
+    4300096: pPipe46
+    4300098: pPipe47
+    4300100: pPipe48
+    4300102: pPipe49
+    4300104: pPipe50
+    4300106: pPipe51
+    4300108: pPipe52
+    4300110: pPipe53
+    4300112: pPipe54
+    4300114: pPipe55
+    4300116: pPipe56
+    4300118: pPipe57
+    4300120: pPipe58
+    4300122: pPipe59
+    4300124: pPipe60
+    4300126: pPipe61
+    4300128: pPipe62
+    4300130: pPipe63
+    4300132: pPipe64
+    4300134: pPipe65
+    4300136: pPipe66
+    4300138: pPipe67
+    4300140: pPipe68
+    4300142: pPipe69
+    4300144: pPipe70
+    4300146: pPipe71
+    4300148: pPipe72
+    4300150: Pipe2
+    4300152: polySurface12
+    4300154: polySurface13
+    4300156: phare:polySurface12
+    4300158: polySurface14
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: areaLight3
+    10800002: areaLight4
+    10800004: areaLight5
+    10800006: areaLight6
+    10800008: spotLight1
+    10800010: spotLight2
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
