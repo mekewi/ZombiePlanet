@@ -9,4 +9,4 @@ This Game For Android And IOS.
 2. Menu
 3. Game Scene
 
-You can find all scenes and access them from menu item in the top bar.
+You can find all scenes and access them from Scenes Tap in top menu bar.
