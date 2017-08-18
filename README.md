@@ -10,3 +10,5 @@ This Game For Android And IOS.
 3. Game Scene
 
 You can find all scenes and access them from Scenes Tap in top menu bar.
+
+Controlling in game-scene using your head only ,look to arrow in the bottom to move inside scene, look to the read sphere in zombies head or heart to kill them.
